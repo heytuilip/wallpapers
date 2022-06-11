@@ -10,6 +10,6 @@ Some wallpapers are from these places:
 4. https://www.pexels.com/
 
 I wasn't able to find original links of some of the wallpapers that were added earlier.
-But from now I'll add them to the file credits.txt.
+But from now I'll add them to the file [credits.txt](https://github.com/tuilipshrm/wallpapers/blob/master/credits.md).
 
 Rest of them are collected by searching on Google.
