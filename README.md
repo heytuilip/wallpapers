@@ -9,4 +9,7 @@ Some wallpapers are from these places:
 3. https://github.com/makccr/wallpapers
 4. https://www.pexels.com/
 
+I wasn't able to find original links of some of the wallpapers that were added earlier.
+But from now I'll add them to the file credits.txt.
+
 Rest of them are collected by searching on Google.
