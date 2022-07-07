@@ -9,6 +9,4 @@ But the new ones (added after 11 June 2022) are:
 6. [This](https://github.com/tuilipshrm/wallpapers/blob/master/0nsjuxaebl491.jpg) black hole wallpaper's [original link](https://www.reddit.com/r/wallpaper/comments/v8fw2n/3840x2160_black_hole/)
 7. [This](https://github.com/tuilipshrm/wallpapers/blob/master/ckdiw0qb5e491.jpg) city wallpaper's [original link](https://www.reddit.com/r/wallpaper/comments/v7ohmx/autum_1920_x_1080/)
 8. [This](https://github.com/tuilipshrm/wallpapers/blob/master/8971d3qkpj491.jpg) minimalistic nature wallpaper's [original link](https://www.reddit.com/r/wallpaper/comments/v8b4dj/green_minimalist_wallpaper_19201080/)
-
-
-
+9. [This](https://github.com/tuilipshrm/wallpapers/blob/master/soHoRYq.jpeg) Tokyo night wallpaper's [originl link](https://imgur.com/a/3qEGUpO)
